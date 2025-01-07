@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Front-End</p>
+<p align="left">Desenvolvedor Front-End Júnior</p>
 
 ###
 
